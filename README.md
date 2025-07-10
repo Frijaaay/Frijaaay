@@ -2,4 +2,4 @@
 
 - 🎓 Grad waiting from Rizal Technological University
 - 🌱 Aspiring to be a Fullstack Software Engineer
-- 🔧 Currently learning Vue.js, Vite, Node.js, Laravel, REST API
+- 🔧 Currently learning Vue.js and Laravel
