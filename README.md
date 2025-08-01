@@ -1,5 +1,5 @@
 ## Hi there, I'am Jay 👋
 
-- 🎓 Grad waiting from Rizal Technological University
+- 🎓 Graduate of Bachelor of Science in Information Technology from Rizal Technological University
 - 🌱 Aspiring to be a Fullstack Software Engineer
-- 🔧 Currently learning Vue.js and Laravel
+- 🔧 Continously learning Vue.js and Laravel
