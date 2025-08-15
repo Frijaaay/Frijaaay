@@ -10,6 +10,6 @@ I’m now seeking entry-level opportunities in software development, where I can
   />
   <br>
   <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap,tailwindcss,daisyui,svg,livewire,jquery,vuejs,pinia,axios,chartjs,primevue,vite,laravel,symfony,apache,sqlserver,mysql,sqlite,json,api,jwt,,npm,tidb,azure,vercel,notepadpp,vscode,git,github&titles=true&perline=10"
+    src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap,tailwindcss,daisyui,svg,livewire,jquery,vuejs,pinia,axios,chartjs,primevue,vite,laravel,symfony,apache,sqlserver,mysql,sqlite,json,api,jwt,npm,tidb,azure,vercel,notepadpp,vscode,git,github,stackoverflow&titles=true&perline=10"
   />
 </p>
