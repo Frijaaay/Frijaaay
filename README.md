@@ -11,6 +11,6 @@ My name is **Jay**, I’m an aspiring Full-Stack Developer and a recent BS in In
 <h3 align="center">Technologies and Tools</h3>
 <br>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwindcss,daisyui,bootstrap,js,vuejs,pinia,vite,npm,php,laravel,apache,sqlserver,mysql,sqlite,tidb,azure,vercel,notepadpp,vscode,git,github,stackoverflow"
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwindcss,daisyui,bootstrap,js,vuejs,pinia,vite,npm,php,laravel,apache,sqlserver,mysql,sqlite,tidb,azure,vercel,notepadpp,vscode,git,github,stackoverflow&perline=8"
   />
 </p>
